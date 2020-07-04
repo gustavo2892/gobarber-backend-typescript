@@ -4,7 +4,7 @@
   GoBarber - Backend
 </h3>
 
-## :rocket: Sobre o nível
+## :rocket: Sobre a Aplicação
 
 Aplicação desenvolvida durante o Bootcamp da Rocketseat. O objetivo da aplicação é permitir que os clientes marquem horário para um salão de barbearia.
 
